@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: presentatie
+- file: top2000-selectie
+- file: top2000-samenvatten
+- file: bibliotheek-a
+- file: toetsvragen
+
