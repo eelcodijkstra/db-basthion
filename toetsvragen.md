@@ -43,7 +43,7 @@ WHERE leden.voornaam = "Marie";
 :::
 
 :::{mchoice} samengestelde voorwaarde
-:correct: a,c
+:correct: a,c,d
 
 Bekijk de volgende SQL query:
 
@@ -60,6 +60,7 @@ Welke van de volgende mogelijkheden zijn juist als `<voorwaarde>`?
 * `klas = '6a' OR klas = '6b'`
 * `klas = '6a' OR '6b`
 * `klas IN ('6a', '6b')`
+* `klas LIKE '6_'`
 * geen van deze mogelijkheden
 
 :::
