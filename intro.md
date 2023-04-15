@@ -8,6 +8,8 @@ Dit materiaal is niet bedoeld als lesmateriaal, maar alleen om te illustreren ho
 
 De bijbehorende Basthon notebooks vind je via de volgende links:
 
+* [presentatie](https://jupyter.infvo.nl/books/eelco/notebook/?kernel=sql&from=ieni2023/presentatie.ipynb&module=ieni2023/top2000.db)
+    * als je in Basthon op de meest rechtse ("histogram") knop klikt, kom je in de presentatie-mode (Rise).
 * [selectie en projectie](https://jupyter.infvo.nl/books/eelco/notebook/?kernel=sql&from=ieni2023/top2000-selectie.ipynb&module=ieni2023/top2000.db)
 * [groeperen en samenvatten](https://jupyter.infvo.nl/books/eelco/notebook/?kernel=sql&from=ieni2023/top2000-samenvatten.ipynb&module=ieni2023/top2000.db)
 * [combineren van tabellen](https://jupyter.infvo.nl/books/eelco/notebook/?kernel=sql&from=ieni2023/bibliotheek-a.ipynb&module=ieni2023/bibliotheek.db)
